@@ -3,67 +3,63 @@
 
 <img src="./ross-swartz-avatar.png" alt="RS monogram avatar" width="150" />
 
-
-# Ross Swartz
-
-
-### Software Engineering Leader · Software Consultant · Security Specialist
+# 👋 Hi, I'm Ross Swartz
 
 
-**Building reliable software. Solving complex problems.**
+### 💻 Software Engineering Leader · 🛡️ Security Specialist · 🤝 Technical Consultant
 
 
-</div>
+**Building reliable software. Solving complex problems. Leading with purpose.**
 
 
 ---
 
 
-## About Me
+</div>
 
 
-I'm **Ross Swartz**, a software engineering professional with experience in engineering leadership, technical consulting, software development, and security-focused work.
+## 👨‍💻 About Me
 
 
-My background spans leading engineering teams and initiatives, consulting on technical challenges, and developing software in security-conscious environments.
+I'm **Ross Swartz**, a software engineering professional with experience across engineering leadership, technical consulting, software development, and security-focused work.
 
 
-## Professional Experience
+I care about **thoughtful engineering**, **maintainable systems**, and **collaboration** that turns complex challenges into practical solutions.
 
 
-**Lead Software Engineer** · Lyntris  
-June 2024 – September 2026
+## 🚀 Professional Journey
 
 
-**Senior Software Consultant** · Splunk  
-March 2020 – May 2024
+| Period | Role | Organization |
+| :--- | :--- | :--- |
+| **Jun 2024 – Sep 2026** | 🚀 Lead Software Engineer | **Lyntris** |
+| **Mar 2020 – May 2024** | 🤝 Senior Software Consultant | **Splunk** |
+| **May 2014 – Feb 2020** | 🛡️ Software Developer / Security Specialist | **Concurrent Technologies Corporation** |
 
 
-**Software Developer | Security Specialist** · Concurrent Technologies Corporation  
-May 2014 – February 2020
+## 🎯 Areas of Focus
 
 
-## Education
+- 🧩 **Software Engineering** — Building and maintaining dependable software solutions
+- 🧭 **Engineering Leadership** — Technical direction and team collaboration
+- 🔐 **Security-Minded Development** — Keeping security in focus throughout development
+- 💡 **Technical Consulting** — Breaking down complex problems into actionable solutions
+- ⚙️ **Continuous Improvement** — Improving engineering practices and maintainability
+
+
+## 🎓 Education
 
 
 **Colorado State University Global**  
-Bachelor's Degree in Information Technology · 2012–2014
+🎓 Bachelor's Degree in Information Technology  
+📅 2012 – 2014
 
 
-## Areas of Focus
+## 📬 Let's Connect
 
 
-- Software engineering and maintainable systems
-- Engineering leadership and technical collaboration
-- Software consulting and problem-solving
-- Security-conscious software development
-
-
-## Connect
-
-
-- **Email:** scotrose822@gmail.com
-- **Phone:** (979) 921-8102
+- ✉️ **Email:** scotrose822@gmail.com
+- 📞 **Phone:** (979) 921-8102
 
 
 ---
@@ -72,7 +68,10 @@ Bachelor's Degree in Information Technology · 2012–2014
 <div align="center">
 
 
-*Engineering with purpose. Building with precision.*
+### ✨ Engineering with purpose. Building with precision.
+
+
+*Thanks for stopping by!*
 
 
 </div>
